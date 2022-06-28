@@ -1,0 +1,11 @@
+###
+ # @Author: MacLoki
+ # @Date: 2022-06-28 16:54:17
+ # @LastEditors: MacLoki
+ # @LastEditTime: 2022-06-28 16:54:30
+ # @FilePath: /vue3-mall-admin/.husky/pre-commit
+### 
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+npx lint-staged
