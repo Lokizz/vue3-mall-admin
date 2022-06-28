@@ -1,2 +1,24 @@
-# vue3-mall-admin
-基于 Vue3，包含商品管理和订单管理的后台管理系统
+# mall-admin
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
